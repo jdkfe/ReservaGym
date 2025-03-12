@@ -2,7 +2,7 @@ name: 08:20 CET
 
 on:
   schedule:
-    - cron: '20 09 * * *'
+    - cron: '20 06 * * *'
   workflow_dispatch: 
 
 jobs:
